@@ -1,5 +1,5 @@
-##########################################################
-## ROBO TRADER - MEDIAS MOVEIS - OPERAÇÃO EM TEMPO REAL ##
+################################################################
+## ROBO TRADER - MEDIAS MOVEIS e RSI - OPERAÇÃO EM TEMPO REAL ##
 
 import datetime as dt
 import numpy as np
